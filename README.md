@@ -1,9 +1,11 @@
 # Hola, I'm Siddhesh Pallor
 
-💻 -I am currently learning Python
+🪢 -Language Java 
 
-✔️-How to reach me: sidhesh2508@email.com
+💻 -I am currently learning Android App Devlopment
 
-😄-Fun Fact: Coffe <3
+✔️ -How to reach me: sidhesh2508@email.com
+
+😄 -Fun Fact: Coffe <3
 
 
