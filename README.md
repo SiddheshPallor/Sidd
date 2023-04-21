@@ -4,7 +4,7 @@
 
 💻 - I am currently learning Android App Devlopment
 
-✔️ - How to reach me: sidhesh2508@email.com
+✔️ - How to reach me: siddheshpallor@gmail.com
 
 😄 - Fun Fact: Coffe <3
 
